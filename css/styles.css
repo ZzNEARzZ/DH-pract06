@@ -1,0 +1,66 @@
+header{
+    background-image: url('../img/fondo.jpg');
+    background-size:contain;
+    height: 150px;
+       
+}
+header .logo{
+    display: block;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+}
+nav a{
+    font-size: 20px;
+    
+}
+div .text1{
+    font-family: 'Times New Roman', sans-serif, Times, serif;
+    font-size: 35px;      
+    line-height: 60px;
+    color: #FFFFFF;
+}
+.cont{
+    background-color: #F0A83E;
+    text-align: center;    
+}
+
+main .title h2{
+    height: 30px;
+    color: #FFFFFF;
+    background-color: #F0A83E;
+    font-family: 'Times New Roman', sans-serif, Times, serif;
+    line-height: 30px;
+    font-size: 20px; 
+}
+main section article .sangria {
+    text-indent: 160px;
+    line-height: 0px;
+    
+}
+
+footer{
+    background-color: #F0A83E;
+    height: 37px;
+}
+footer .contprin{
+    position: relative;
+}
+footer .contsec{
+     
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -15px 0 0 -25px; 
+    
+}
+footer .contprin .contsec p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    font-size: 20px;      
+}
+.menu{
+    background-color: #C4C4C4;
+
+}
+
